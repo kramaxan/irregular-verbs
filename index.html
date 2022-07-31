@@ -5,10 +5,37 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="stylesheet" href="./styles.css" />
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;500;700&display=swap" rel="stylesheet" />
         <title>Irregular Verbs</title>
     </head>
     <body>
-        <button onclick="hello()">Hello</button>
-        <script src="./script.js"></script>
+        <main>
+            <section class="quiz-section">
+                <div class="grid">
+                    <aside class="sidebar">
+                        <input class="main-btn" type="button" value="Start" />
+                        <input class="main-btn" type="button" value="Reset" />
+                        <span class="counter">7/40</span>
+                    </aside>
+                    <div class="quiz-box">
+                        <h1 class="verb">Робити</h1>
+                        <form class="quiz-input">
+                            <div class="input-verbs">
+                                <input class="verb-box" type="text" placeholder="verb1" />
+                                <input class="verb-box" type="text" placeholder="verb2" />
+                                <input class="verb-box" type="text" placeholder="verb3" />
+                            </div>
+                            <div class="sub-btn">
+                                <input class="btn check-box" type="button" value="Check" />
+                                <input class="btn next-box" type="button" value="Next" />
+                            </div>
+                        </form>
+                        <script src="./script.js"></script>
+                    </div>
+                </div>
+            </section>
+        </main>
     </body>
 </html>
