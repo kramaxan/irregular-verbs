@@ -15,27 +15,27 @@
             <section class="quiz-section">
                 <div class="grid">
                     <aside class="sidebar">
-                        <input class="main-btn" type="button" value="Start" />
-                        <input class="main-btn" type="button" value="Reset" />
-                        <span class="counter">7/40</span>
+                        <input class="main-btn" type="button" data-action-button="start" value="start" />
+                        <input class="main-btn" type="button" data-action-button="reset" value="reset" />
+                        <span class="counter" data-counter-label></span>
                     </aside>
                     <div class="quiz-box">
-                        <h1 class="verb">Робити</h1>
-                        <form class="quiz-input">
+                        <h1 class="verb" data-word-label></h1>
+                        <div class="quiz-input" data-quiz-inputs>
                             <div class="input-verbs">
-                                <input class="verb-box" type="text" placeholder="verb1" />
-                                <input class="verb-box" type="text" placeholder="verb2" />
-                                <input class="verb-box" type="text" placeholder="verb3" />
+                                <input class="verb-box" type="text" data-word-form="v1" placeholder="base form" />
+                                <input class="verb-box" type="text" data-word-form="v2" placeholder="past simple" />
+                                <input class="verb-box" type="text" data-word-form="v3" placeholder="past participle" />
                             </div>
                             <div class="sub-btn">
-                                <input class="btn check-box" type="button" value="Check" />
-                                <input class="btn next-box" type="button" value="Next" />
+                                <input class="btn check-box" type="button" data-action-button="check" value="check" />
+                                <input class="btn next-box" type="button" data-action-button="next" value="next" />
                             </div>
                         </form>
-                        <script src="./script.js"></script>
                     </div>
                 </div>
             </section>
         </main>
+        <script src="./script.js" type="module"></script>
     </body>
 </html>
