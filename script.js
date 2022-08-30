@@ -11,7 +11,7 @@ const inputV1 = document.querySelector('[data-word-form="v1"]');
 const inputV2 = document.querySelector('[data-word-form="v2"]');
 const inputV3 = document.querySelector('[data-word-form="v3"]');
 
-const TOTAL_WORDS_AMOUNT = db.length;
+const TOTAL_WORDS_AMOUNT = 20;
 
 let data;
 let COUNTER;
@@ -38,7 +38,7 @@ function reset() {
     word.innerText = 'press start';
     counterLabel.innerText = `${COUNTER}/${TOTAL_WORDS_AMOUNT}`;
 
-    data = shuffle(db);
+    data = shuffle(db).slice(0, TOTAL_WORDS_AMOUNT);
 
     startButton.classList.remove('disabled');
 }
