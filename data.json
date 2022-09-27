@@ -30,7 +30,7 @@
         "v3": "been"
     },
     {
-        "word": "терпіти/нести",
+        "word": "терпіти/нести/народжувати",
         "v1": "bear",
         "v2": "bore",
         "v3": "born"
@@ -126,7 +126,7 @@
         "v3": "cut"
     },
     {
-        "word": "розбиратись/мати діло з",
+        "word": "розбиратись/мати справу з",
         "v1": "deal",
         "v2": "dealt",
         "v3": "dealt"
@@ -676,5 +676,227 @@
         "v1": "write",
         "v2": "wrote",
         "v3": "written"
+    },
+    {
+        "word": "підійматися",
+        "v1": "arise",
+        "v2": "arose",
+        "v3": "arisen"
+    },
+    {
+        "word": "гнути",
+        "v1": "bend",
+        "v2": "bent",
+        "v3": "bent"
+    },
+    {
+        "word": "сходити кров'ю",
+        "v1": "bleed",
+        "v2": "bled",
+        "v3": "bled"
+    },
+    {
+        "word": "виховувати",
+        "v1": "breed",
+        "v2": "bred",
+        "v3": "bred"
+    },
+    {
+        "word": "тікати/рятуватися",
+        "v1": "flee",
+        "v2": "fled",
+        "v3": "fled"
+    },
+    {
+        "word": "поринати",
+        "v1": "sink",
+        "v2": "sank",
+        "v3": "sunk"
+    },
+    {
+        "word": "крокувати",
+        "v1": "stride",
+        "v2": "strode",
+        "v3": "stridden"
+    },
+    {
+        "word": "старатися",
+        "v1": "strive",
+        "v2": "strove",
+        "v3": "striven"
+    },
+    {
+        "word": "гойдатися",
+        "v1": "swing",
+        "v2": "swung",
+        "v3": "swung"
+    },
+    {
+        "word": "ткати",
+        "v1": "weave",
+        "v2": "wove",
+        "v3": "woven"
+    },
+    {
+        "word": "вилучати",
+        "v1": "withdraw",
+        "v2": "withdrew",
+        "v3": "withdrawn"
+    },
+    {
+        "word": "скручувати",
+        "v1": "wring",
+        "v2": "wrung",
+        "v3": "wrung"
+    },
+    {
+        "word": "кидати/лити",
+        "v1": "cast",
+        "v2": "cast",
+        "v3": "cast"
+    },
+    {
+        "word": "розколювати",
+        "v1": "cleave",
+        "v2": "clove",
+        "v3": "cloven"
+    },
+    {
+        "word": "траплятися",
+        "v1": "befall",
+        "v2": "befell",
+        "v3": "befallen"
+    },
+    {
+        "word": "наказувати",
+        "v1": "bid",
+        "v2": "bad",
+        "v3": "bidden"
+    },
+    {
+        "word": "чіплятися",
+        "v1": "cling",
+        "v2": "clung",
+        "v3": "clung"
+    },
+    {
+        "word": "повзти",
+        "v1": "creep",
+        "v2": "crept",
+        "v3": "crept"
+    },
+    {
+        "word": "наважуватись",
+        "v1": "dare",
+        "v2": "durst",
+        "v3": "dared"
+    },
+    {
+        "word": "золотити",
+        "v1": "gild",
+        "v2": "gilt",
+        "v3": "gilt"
+    },
+    {
+        "word": "молоти",
+        "v1": "grind",
+        "v2": "ground",
+        "v3": "ground"
+    },
+    {
+        "word": "в'язати",
+        "v1": "knit",
+        "v2": "knit",
+        "v3": "knit"
+    },
+    {
+        "word": "спиратися",
+        "v1": "lean",
+        "v2": "leant",
+        "v3": "leant"
+    },
+    {
+        "word": "плигати/стрибати",
+        "v1": "leap",
+        "v2": "leapt",
+        "v3": "leapt"
+    },
+    {
+        "word": "недочути",
+        "v1": "mishear",
+        "v2": "misheard",
+        "v3": "misheard"
+    },
+    {
+        "word": "скорочуватися",
+        "v1": "shrink",
+        "v2": "shrank",
+        "v3": "shrunk"
+    },
+    {
+        "word": "ковзати",
+        "v1": "slide",
+        "v2": "slid",
+        "v3": "slid"
+    },
+    {
+        "word": "прясти",
+        "v1": "spin",
+        "v2": "spun",
+        "v3": "spun"
+    },
+    {
+        "word": "плювати",
+        "v1": "spit",
+        "v2": "spat",
+        "v3": "spat"
+    },
+    {
+        "word": "смердіти",
+        "v1": "stink",
+        "v2": "stank",
+        "v3": "stunk"
+    },
+    {
+        "word": "штовхати",
+        "v1": "thrust",
+        "v2": "thrust",
+        "v3": "thrust"
+    },
+    {
+        "word": "розпочинати/братися",
+        "v1": "undertake",
+        "v2": "undertook",
+        "v3": "undertaken"
+    },
+    {
+        "word": "намотувати",
+        "v1": "wind",
+        "v2": "wound",
+        "v3": "wound"
+    },
+    {
+        "word": "плакати",
+        "v1": "weep",
+        "v2": "wept",
+        "v3": "wept"
+    },
+    {
+        "word": "взувати/підковувати",
+        "v1": "shoe",
+        "v2": "shod",
+        "v3": "shod"
+    },
+    {
+        "word": "косити",
+        "v1": "mow",
+        "v2": "mowed",
+        "v3": "mown"
+    },
+    {
+        "word": "голитися",
+        "v1": "shave",
+        "v2": "shaved",
+        "v3": "shaven"
     }
 ]
