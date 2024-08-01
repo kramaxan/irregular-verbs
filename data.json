@@ -1,900 +1,900 @@
 [
     {
-        "word": "робити",
+        "verb": "робити",
         "v1": "do",
         "v2": "did",
         "v3": "done"
     },
     {
-        "word": "починати",
+        "verb": "починати",
         "v1": "begin",
         "v2": "began",
         "v3": "begun"
     },
     {
-        "word": "літати",
+        "verb": "літати",
         "v1": "fly",
         "v2": "flew",
         "v3": "flown"
     },
     {
-        "word": "ламати",
+        "verb": "ламати",
         "v1": "break",
         "v2": "broke",
         "v3": "broken"
     },
     {
-        "word": "бути",
+        "verb": "бути",
         "v1": "be",
         "v2": "was",
         "v3": "been"
     },
     {
-        "word": "терпіти/нести/народжувати",
+        "verb": "терпіти/нести/народжувати",
         "v1": "bear",
         "v2": "bore",
         "v3": "born"
     },
     {
-        "word": "бити/перемагати",
+        "verb": "бити/перемагати",
         "v1": "beat",
         "v2": "beat",
         "v3": "beaten"
     },
     {
-        "word": "ставати",
+        "verb": "ставати",
         "v1": "become",
         "v2": "became",
         "v3": "become"
     },
     {
-        "word": "кусати",
+        "verb": "кусати",
         "v1": "bite",
         "v2": "bit",
         "v3": "bitten"
     },
     {
-        "word": "удар/дути",
+        "verb": "удар/дути",
         "v1": "blow",
         "v2": "blew",
         "v3": "blown"
     },
     {
-        "word": "принести",
+        "verb": "принести",
         "v1": "bring",
         "v2": "brought",
         "v3": "brought"
     },
     {
-        "word": "будувати",
+        "verb": "будувати",
         "v1": "build",
         "v2": "built",
         "v3": "built"
     },
     {
-        "word": "ставати",
+        "verb": "ставати",
         "v1": "become",
         "v2": "became",
         "v3": "become"
     },
     {
-        "word": "горіти",
+        "verb": "горіти",
         "v1": "burn",
         "v2": "burnt",
         "v3": "burnt"
     },
     {
-        "word": "вибухати",
+        "verb": "вибухати",
         "v1": "burst",
         "v2": "burst",
         "v3": "burst"
     },
     {
-        "word": "купувати",
+        "verb": "купувати",
         "v1": "buy",
         "v2": "bought",
         "v3": "bought"
     },
     {
-        "word": "ловити",
+        "verb": "ловити",
         "v1": "catch",
         "v2": "caught",
         "v3": "caught"
     },
     {
-        "word": "вибирати",
+        "verb": "вибирати",
         "v1": "choose",
         "v2": "chose",
         "v3": "chosen"
     },
     {
-        "word": "приходити",
+        "verb": "приходити",
         "v1": "come",
         "v2": "came",
         "v3": "come"
     },
     {
-        "word": "коштувати",
+        "verb": "коштувати",
         "v1": "cost",
         "v2": "cost",
         "v3": "cost"
     },
     {
-        "word": "різати",
+        "verb": "різати",
         "v1": "cut",
         "v2": "cut",
         "v3": "cut"
     },
     {
-        "word": "розбиратись/мати справу з",
+        "verb": "розбиратись/мати справу з",
         "v1": "deal",
         "v2": "dealt",
         "v3": "dealt"
     },
     {
-        "word": "копати",
+        "verb": "копати",
         "v1": "dig",
         "v2": "dug",
         "v3": "dug"
     },
     {
-        "word": "малювати",
+        "verb": "малювати",
         "v1": "draw",
         "v2": "drew",
         "v3": "drawm"
     },
     {
-        "word": "мріяти/снитись",
+        "verb": "мріяти/снитись",
         "v1": "dream",
         "v2": "dreamt",
         "v3": "dreamt"
     },
     {
-        "word": "пити",
+        "verb": "пити",
         "v1": "drink",
         "v2": "drank",
         "v3": "drunk"
     },
     {
-        "word": "їздити",
+        "verb": "їздити",
         "v1": "drive",
         "v2": "drove",
         "v3": "driven"
     },
     {
-        "word": "їсти",
+        "verb": "їсти",
         "v1": "eat",
         "v2": "ate",
         "v3": "eaten"
     },
     {
-        "word": "падати",
+        "verb": "падати",
         "v1": "fall",
         "v2": "fell",
         "v3": "fallen"
     },
     {
-        "word": "кормити",
+        "verb": "кормити",
         "v1": "feed",
         "v2": "fed",
         "v3": "fed"
     },
     {
-        "word": "відчувати",
+        "verb": "відчувати",
         "v1": "feel",
         "v2": "felt",
         "v3": "felt"
     },
     {
-        "word": "знаходити",
+        "verb": "знаходити",
         "v1": "find",
         "v2": "found",
         "v3": "found"
     },
     {
-        "word": "битись",
+        "verb": "битись",
         "v1": "fight",
         "v2": "fought",
         "v3": "fought"
     },
     {
-        "word": "забороняти",
+        "verb": "забороняти",
         "v1": "forbid",
         "v2": "forbade",
         "v3": "forbidden"
     },
     {
-        "word": "забувати",
+        "verb": "забувати",
         "v1": "forget",
         "v2": "forgot",
         "v3": "forgotten"
     },
     {
-        "word": "пробачати",
+        "verb": "пробачати",
         "v1": "forgive",
         "v2": "forgave",
         "v3": "forgiven"
     },
     {
-        "word": "заморозити",
+        "verb": "заморозити",
         "v1": "freeze",
         "v2": "froze",
         "v3": "frozen"
     },
     {
-        "word": "отримати",
+        "verb": "отримати",
         "v1": "get",
         "v2": "got",
         "v3": "got"
     },
     {
-        "word": "давати",
+        "verb": "давати",
         "v1": "give",
         "v2": "gave",
         "v3": "given"
     },
     {
-        "word": "йти",
+        "verb": "йти",
         "v1": "go",
         "v2": "went",
         "v3": "gone"
     },
     {
-        "word": "рости",
+        "verb": "рости",
         "v1": "grow",
         "v2": "grew",
         "v3": "grown"
     },
     {
-        "word": "висіти",
+        "verb": "висіти",
         "v1": "hang",
         "v2": "hung",
         "v3": "hung"
     },
     {
-        "word": "мати",
+        "verb": "мати",
         "v1": "have",
         "v2": "had",
         "v3": "had"
     },
     {
-        "word": "чути",
+        "verb": "чути",
         "v1": "hear",
         "v2": "heard",
         "v3": "heard"
     },
     {
-        "word": "ховати",
+        "verb": "ховати",
         "v1": "hide",
         "v2": "hid",
         "v3": "hidden"
     },
     {
-        "word": "вдарити",
+        "verb": "вдарити",
         "v1": "hit",
         "v2": "hit",
         "v3": "hit"
     },
     {
-        "word": "тримати/хапати",
+        "verb": "тримати/хапати",
         "v1": "hold",
         "v2": "held",
         "v3": "held"
     },
     {
-        "word": "поранити",
+        "verb": "поранити",
         "v1": "hurt",
         "v2": "hurt",
         "v3": "hurt"
     },
     {
-        "word": "тримати/зберігати",
+        "verb": "тримати/зберігати",
         "v1": "keep",
         "v2": "kept",
         "v3": "kept"
     },
     {
-        "word": "знати",
+        "verb": "знати",
         "v1": "know",
         "v2": "knew",
         "v3": "known"
     },
     {
-        "word": "класти",
+        "verb": "класти",
         "v1": "lay",
         "v2": "laid",
         "v3": "laid"
     },
     {
-        "word": "вести",
+        "verb": "вести",
         "v1": "lead",
         "v2": "led",
         "v3": "led"
     },
     {
-        "word": "вчити",
+        "verb": "вчити",
         "v1": "learn",
         "v2": "learnt",
         "v3": "learnt"
     },
     {
-        "word": "залишати",
+        "verb": "залишати",
         "v1": "leave",
         "v2": "left",
         "v3": "left"
     },
     {
-        "word": "зичити",
+        "verb": "зичити",
         "v1": "lend",
         "v2": "lent",
         "v3": "lent"
     },
     {
-        "word": "дозволяти",
+        "verb": "дозволяти",
         "v1": "let",
         "v2": "let",
         "v3": "let"
     },
     {
-        "word": "брехати/лежати",
+        "verb": "брехати/лежати",
         "v1": "lie",
         "v2": "lay",
         "v3": "lain"
     },
     {
-        "word": "світити/запалювати",
+        "verb": "світити/запалювати",
         "v1": "light",
         "v2": "lit",
         "v3": "lit"
     },
     {
-        "word": "втрачати",
+        "verb": "втрачати",
         "v1": "lose",
         "v2": "lost",
         "v3": "lost"
     },
     {
-        "word": "робити/створити",
+        "verb": "робити/створити",
         "v1": "make",
         "v2": "made",
         "v3": "made"
     },
     {
-        "word": "означати",
+        "verb": "означати",
         "v1": "mean",
         "v2": "meant",
         "v3": "meant"
     },
     {
-        "word": "зустрічати",
+        "verb": "зустрічати",
         "v1": "meet",
         "v2": "met",
         "v3": "met"
     },
     {
-        "word": "платити",
+        "verb": "платити",
         "v1": "pay",
         "v2": "paid",
         "v3": "paid"
     },
     {
-        "word": "покласти/поставити",
+        "verb": "покласти/поставити",
         "v1": "put",
         "v2": "put",
         "v3": "put"
     },
     {
-        "word": "читати",
+        "verb": "читати",
         "v1": "read",
         "v2": "read",
         "v3": "read"
     },
     {
-        "word": "їхати(на двох колесах/верхи)",
+        "verb": "їхати(на двох колесах/верхи)",
         "v1": "ride",
         "v2": "rode",
         "v3": "ridden"
     },
     {
-        "word": "дзвеніти",
+        "verb": "дзвеніти",
         "v1": "ring",
         "v2": "rang",
         "v3": "rung"
     },
     {
-        "word": "підійматись",
+        "verb": "підійматись",
         "v1": "rise",
         "v2": "rose",
         "v3": "risen"
     },
     {
-        "word": "бігти",
+        "verb": "бігти",
         "v1": "run",
         "v2": "ran",
         "v3": "run"
     },
     {
-        "word": "сказати",
+        "verb": "сказати",
         "v1": "say",
         "v2": "said",
         "v3": "said"
     },
     {
-        "word": "бачити",
+        "verb": "бачити",
         "v1": "see",
         "v2": "saw",
         "v3": "seen"
     },
     {
-        "word": "шукати",
+        "verb": "шукати",
         "v1": "seek",
         "v2": "sought",
         "v3": "sought"
     },
     {
-        "word": "продавати",
+        "verb": "продавати",
         "v1": "sell",
         "v2": "sold",
         "v3": "sold"
     },
     {
-        "word": "відправляти",
+        "verb": "відправляти",
         "v1": "send",
         "v2": "sent",
         "v3": "sent"
     },
     {
-        "word": "встановлювати/ставити",
+        "verb": "встановлювати/ставити",
         "v1": "set",
         "v2": "set",
         "v3": "set"
     },
     {
-        "word": "шити",
+        "verb": "шити",
         "v1": "sew",
         "v2": "sewed",
         "v3": "sewn"
     },
     {
-        "word": "сіяти",
+        "verb": "сіяти",
         "v1": "sow",
         "v2": "sowed",
         "v3": "sown"
     },
     {
-        "word": "трясти",
+        "verb": "трясти",
         "v1": "shake",
         "v2": "shook",
         "v3": "shaken"
     },
     {
-        "word": "блищати",
+        "verb": "блищати",
         "v1": "shine",
         "v2": "shone",
         "v3": "shone"
     },
     {
-        "word": "стріляти",
+        "verb": "стріляти",
         "v1": "shoot",
         "v2": "shot",
         "v3": "shot"
     },
     {
-        "word": "показувати",
+        "verb": "показувати",
         "v1": "show",
         "v2": "showed",
         "v3": "shown"
     },
     {
-        "word": "закривати/замикати",
+        "verb": "закривати/замикати",
         "v1": "shut",
         "v2": "shut",
         "v3": "shut"
     },
     {
-        "word": "співати",
+        "verb": "співати",
         "v1": "sing",
         "v2": "sang",
         "v3": "sung"
     },
     {
-        "word": "сидіти",
+        "verb": "сидіти",
         "v1": "sit",
         "v2": "sat",
         "v3": "sat"
     },
     {
-        "word": "спати",
+        "verb": "спати",
         "v1": "sleep",
         "v2": "slept",
         "v3": "slept"
     },
     {
-        "word": "нюхати/пахнути",
+        "verb": "нюхати/пахнути",
         "v1": "smell",
         "v2": "smelt",
         "v3": "smelt"
     },
     {
-        "word": "говорити",
+        "verb": "говорити",
         "v1": "speak",
         "v2": "spoke",
         "v3": "spoken"
     },
     {
-        "word": "вимовляти",
+        "verb": "вимовляти",
         "v1": "spell",
         "v2": "spelt",
         "v3": "spelt"
     },
     {
-        "word": "витрачати",
+        "verb": "витрачати",
         "v1": "spend",
         "v2": "spent",
         "v3": "spent"
     },
     {
-        "word": "розливати",
+        "verb": "розливати",
         "v1": "spill",
         "v2": "spilt",
         "v3": "spilt"
     },
     {
-        "word": "розділяти",
+        "verb": "розділяти",
         "v1": "split",
         "v2": "split",
         "v3": "split"
     },
     {
-        "word": "псувати",
+        "verb": "псувати",
         "v1": "spoil",
         "v2": "spoilt",
         "v3": "spoilt"
     },
     {
-        "word": "розповсюджувати",
+        "verb": "розповсюджувати",
         "v1": "spread",
         "v2": "spread",
         "v3": "spread"
     },
     {
-        "word": "вистрибувати",
+        "verb": "вистрибувати",
         "v1": "spring",
         "v2": "sprang",
         "v3": "sprung"
     },
     {
-        "word": "стояти",
+        "verb": "стояти",
         "v1": "stand",
         "v2": "stood",
         "v3": "stood"
     },
     {
-        "word": "красти",
+        "verb": "красти",
         "v1": "steal",
         "v2": "stole",
         "v3": "stolen"
     },
     {
-        "word": "прилипати",
+        "verb": "прилипати",
         "v1": "stick",
         "v2": "stuck",
         "v3": "stuck"
     },
     {
-        "word": "вжалити",
+        "verb": "вжалити",
         "v1": "sting",
         "v2": "stung",
         "v3": "stung"
     },
     {
-        "word": "вдаряти/вражати",
+        "verb": "вдаряти/вражати",
         "v1": "strike",
         "v2": "struck",
         "v3": "struck"
     },
     {
-        "word": "клястись",
+        "verb": "клястись",
         "v1": "swear",
         "v2": "swore",
         "v3": "sworn"
     },
     {
-        "word": "підмітати",
+        "verb": "підмітати",
         "v1": "sweep",
         "v2": "swept",
         "v3": "swept"
     },
     {
-        "word": "плавати",
+        "verb": "плавати",
         "v1": "swim",
         "v2": "swam",
         "v3": "swum"
     },
     {
-        "word": "брати",
+        "verb": "брати",
         "v1": "take",
         "v2": "took",
         "v3": "taken"
     },
     {
-        "word": "навчати",
+        "verb": "навчати",
         "v1": "teach",
         "v2": "taught",
         "v3": "taught"
     },
     {
-        "word": "рвати",
+        "verb": "рвати",
         "v1": "tear",
         "v2": "tore",
         "v3": "torn"
     },
     {
-        "word": "розповідати",
+        "verb": "розповідати",
         "v1": "tell",
         "v2": "told",
         "v3": "told"
     },
     {
-        "word": "думати",
+        "verb": "думати",
         "v1": "think",
         "v2": "thought",
         "v3": "thought"
     },
     {
-        "word": "кидати",
+        "verb": "кидати",
         "v1": "throw",
         "v2": "threw",
         "v3": "thrown"
     },
     {
-        "word": "розуміти",
+        "verb": "розуміти",
         "v1": "understand",
         "v2": "understood",
         "v3": "understood"
     },
     {
-        "word": "прокидатись",
+        "verb": "прокидатись",
         "v1": "wake",
         "v2": "woke",
         "v3": "woken"
     },
     {
-        "word": "носити (одяг)",
+        "verb": "носити (одяг)",
         "v1": "wear",
         "v2": "wore",
         "v3": "worn"
     },
     {
-        "word": "вигравати",
+        "verb": "вигравати",
         "v1": "win",
         "v2": "won",
         "v3": "won"
     },
     {
-        "word": "писати",
+        "verb": "писати",
         "v1": "write",
         "v2": "wrote",
         "v3": "written"
     },
     {
-        "word": "підійматися",
+        "verb": "підійматися",
         "v1": "arise",
         "v2": "arose",
         "v3": "arisen"
     },
     {
-        "word": "гнути",
+        "verb": "гнути",
         "v1": "bend",
         "v2": "bent",
         "v3": "bent"
     },
     {
-        "word": "сходити кров'ю",
+        "verb": "сходити кров'ю",
         "v1": "bleed",
         "v2": "bled",
         "v3": "bled"
     },
     {
-        "word": "виховувати",
+        "verb": "виховувати",
         "v1": "breed",
         "v2": "bred",
         "v3": "bred"
     },
     {
-        "word": "тікати/рятуватися",
+        "verb": "тікати/рятуватися",
         "v1": "flee",
         "v2": "fled",
         "v3": "fled"
     },
     {
-        "word": "поринати",
+        "verb": "поринати",
         "v1": "sink",
         "v2": "sank",
         "v3": "sunk"
     },
     {
-        "word": "крокувати",
+        "verb": "крокувати",
         "v1": "stride",
         "v2": "strode",
         "v3": "stridden"
     },
     {
-        "word": "старатися",
+        "verb": "старатися",
         "v1": "strive",
         "v2": "strove",
         "v3": "striven"
     },
     {
-        "word": "гойдатися",
+        "verb": "гойдатися",
         "v1": "swing",
         "v2": "swung",
         "v3": "swung"
     },
     {
-        "word": "ткати",
+        "verb": "ткати",
         "v1": "weave",
         "v2": "wove",
         "v3": "woven"
     },
     {
-        "word": "вилучати",
+        "verb": "вилучати",
         "v1": "withdraw",
         "v2": "withdrew",
         "v3": "withdrawn"
     },
     {
-        "word": "скручувати",
+        "verb": "скручувати",
         "v1": "wring",
         "v2": "wrung",
         "v3": "wrung"
     },
     {
-        "word": "кидати/лити",
+        "verb": "кидати/лити",
         "v1": "cast",
         "v2": "cast",
         "v3": "cast"
     },
     {
-        "word": "розколювати",
+        "verb": "розколювати",
         "v1": "cleave",
         "v2": "clove",
         "v3": "cloven"
     },
     {
-        "word": "траплятися",
+        "verb": "траплятися",
         "v1": "befall",
         "v2": "befell",
         "v3": "befallen"
     },
     {
-        "word": "наказувати",
+        "verb": "наказувати",
         "v1": "bid",
         "v2": "bad",
         "v3": "bidden"
     },
     {
-        "word": "чіплятися",
+        "verb": "чіплятися",
         "v1": "cling",
         "v2": "clung",
         "v3": "clung"
     },
     {
-        "word": "повзти",
+        "verb": "повзти",
         "v1": "creep",
         "v2": "crept",
         "v3": "crept"
     },
     {
-        "word": "наважуватись",
+        "verb": "наважуватись",
         "v1": "dare",
         "v2": "durst",
         "v3": "dared"
     },
     {
-        "word": "золотити",
+        "verb": "золотити",
         "v1": "gild",
         "v2": "gilt",
         "v3": "gilt"
     },
     {
-        "word": "молоти",
+        "verb": "молоти",
         "v1": "grind",
         "v2": "ground",
         "v3": "ground"
     },
     {
-        "word": "в'язати",
+        "verb": "в'язати",
         "v1": "knit",
         "v2": "knit",
         "v3": "knit"
     },
     {
-        "word": "спиратися",
+        "verb": "спиратися",
         "v1": "lean",
         "v2": "leant",
         "v3": "leant"
     },
     {
-        "word": "плигати/стрибати",
+        "verb": "плигати/стрибати",
         "v1": "leap",
         "v2": "leapt",
         "v3": "leapt"
     },
     {
-        "word": "недочути",
+        "verb": "недочути",
         "v1": "mishear",
         "v2": "misheard",
         "v3": "misheard"
     },
     {
-        "word": "скорочуватися",
+        "verb": "скорочуватися",
         "v1": "shrink",
         "v2": "shrank",
         "v3": "shrunk"
     },
     {
-        "word": "ковзати",
+        "verb": "ковзати",
         "v1": "slide",
         "v2": "slid",
         "v3": "slid"
     },
     {
-        "word": "прясти",
+        "verb": "прясти",
         "v1": "spin",
         "v2": "spun",
         "v3": "spun"
     },
     {
-        "word": "плювати",
+        "verb": "плювати",
         "v1": "spit",
         "v2": "spat",
         "v3": "spat"
     },
     {
-        "word": "смердіти",
+        "verb": "смердіти",
         "v1": "stink",
         "v2": "stank",
         "v3": "stunk"
     },
     {
-        "word": "штовхати",
+        "verb": "штовхати",
         "v1": "thrust",
         "v2": "thrust",
         "v3": "thrust"
     },
     {
-        "word": "розпочинати/братися",
+        "verb": "розпочинати/братися",
         "v1": "undertake",
         "v2": "undertook",
         "v3": "undertaken"
     },
     {
-        "word": "намотувати",
+        "verb": "намотувати",
         "v1": "wind",
         "v2": "wound",
         "v3": "wound"
     },
     {
-        "word": "плакати",
+        "verb": "плакати",
         "v1": "weep",
         "v2": "wept",
         "v3": "wept"
     },
     {
-        "word": "взувати/підковувати",
+        "verb": "взувати/підковувати",
         "v1": "shoe",
         "v2": "shod",
         "v3": "shod"
     },
     {
-        "word": "косити",
+        "verb": "косити",
         "v1": "mow",
         "v2": "mowed",
         "v3": "mown"
     },
     {
-        "word": "голитися",
+        "verb": "голитися",
         "v1": "shave",
         "v2": "shaved",
         "v3": "shaven"
