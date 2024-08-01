@@ -1,21 +1,21 @@
-import db from './data.json' assert { type: 'json' };
+import db from './data.json' with { type: 'json' };
 
 const buttons = document.querySelectorAll('[data-action-button]');
 const startButton = document.querySelector('[data-action-button="start"]');
 const resetButton = document.querySelector('[data-action-button="reset"]');
-const word = document.querySelector('[data-word-label]');
+const verb = document.querySelector('[data-verb-label]');
 const quizInputs = document.querySelector('[data-quiz-inputs]');
 const counterLabel = document.querySelector('[data-counter-label]');
-const inputs = document.querySelectorAll('[data-word-form]');
-const inputV1 = document.querySelector('[data-word-form="v1"]');
-const inputV2 = document.querySelector('[data-word-form="v2"]');
-const inputV3 = document.querySelector('[data-word-form="v3"]');
+const inputs = document.querySelectorAll('[data-verb-form]');
+const inputV1 = document.querySelector('[data-verb-form="v1"]');
+const inputV2 = document.querySelector('[data-verb-form="v2"]');
+const inputV3 = document.querySelector('[data-verb-form="v3"]');
 
-const TOTAL_WORDS_AMOUNT = 20;
+const TOTAL_VERBS_AMOUNT = 20;
 
 let data;
 let COUNTER;
-let CURRENT_WORD_INDEX;
+let CURRENT_VERB_INDEX;
 let CORRECT_ANSWERS;
 
 document.addEventListener('DOMContentLoaded', onDOMContentLoaded);
@@ -32,13 +32,13 @@ function reset() {
     resetInputs();
 
     COUNTER = 0;
-    CURRENT_WORD_INDEX = 0;
+    CURRENT_VERB_INDEX = 0;
     CORRECT_ANSWERS = 0;
 
-    word.innerText = 'press start';
-    counterLabel.innerText = `${COUNTER}/${TOTAL_WORDS_AMOUNT}`;
+    verb.innerText = 'press start';
+    counterLabel.innerText = `${COUNTER}/${TOTAL_VERBS_AMOUNT}`;
 
-    data = shuffle(db).slice(0, TOTAL_WORDS_AMOUNT);
+    data = shuffle(db).slice(0, TOTAL_VERBS_AMOUNT);
 
     startButton.classList.remove('disabled');
 }
@@ -46,8 +46,8 @@ function reset() {
 function start() {
     startButton.classList.add('disabled');
 
-    word.innerText = data[CURRENT_WORD_INDEX].word;
-    counterLabel.innerText = `${++COUNTER}/${TOTAL_WORDS_AMOUNT}`;
+    verb.innerText = data[CURRENT_VERB_INDEX].verb;
+    counterLabel.innerText = `${++COUNTER}/${TOTAL_VERBS_AMOUNT}`;
 
     resetButton.classList.remove('disabled');
     quizInputs.classList.remove('disabled');
@@ -56,27 +56,27 @@ function start() {
 function update() {
     resetInputs();
 
-    word.innerText = data[++CURRENT_WORD_INDEX].word;
-    counterLabel.innerText = `${++COUNTER}/${TOTAL_WORDS_AMOUNT}`;
+    verb.innerText = data[++CURRENT_VERB_INDEX].verb;
+    counterLabel.innerText = `${++COUNTER}/${TOTAL_VERBS_AMOUNT}`;
 }
 
 function check() {
     const { userV1, userV2, userV3 } = getUserInput();
-    let currentWord = data[CURRENT_WORD_INDEX];
+    let currentVerb = data[CURRENT_VERB_INDEX];
 
-    if (userV1 === currentWord.v1) {
+    if (userV1 === currentVerb.v1) {
         inputV1.classList.replace('wrong', 'correct') || inputV1.classList.add('correct');
     } else {
         inputV1.classList.replace('correct', 'wrong') || inputV1.classList.add('wrong');
     }
 
-    if (userV2 === currentWord.v2) {
+    if (userV2 === currentVerb.v2) {
         inputV2.classList.replace('wrong', 'correct') || inputV2.classList.add('correct');
     } else {
         inputV2.classList.replace('correct', 'wrong') || inputV2.classList.add('wrong');
     }
 
-    if (userV3 === currentWord.v3) {
+    if (userV3 === currentVerb.v3) {
         inputV3.classList.replace('wrong', 'correct') || inputV3.classList.add('correct');
     } else {
         inputV3.classList.replace('correct', 'wrong') || inputV3.classList.add('wrong');
@@ -94,7 +94,7 @@ function next() {
 }
 
 function end() {
-    alert(`Testing is complete. Correct answers: ${CORRECT_ANSWERS}/${TOTAL_WORDS_AMOUNT}`);
+    alert(`Testing is complete. Correct answers: ${CORRECT_ANSWERS}/${TOTAL_VERBS_AMOUNT}`);
     reset();
 }
 
@@ -104,9 +104,9 @@ function getUserInput() {
 
 function stats() {
     const { userV1, userV2, userV3 } = getUserInput();
-    let currentWord = data[CURRENT_WORD_INDEX];
+    let currentVerb = data[CURRENT_VERB_INDEX];
 
-    if (userV1 === currentWord.v1 && userV2 === currentWord.v2 && userV3 === currentWord.v3) {
+    if (userV1 === currentVerb.v1 && userV2 === currentVerb.v2 && userV3 === currentVerb.v3) {
         CORRECT_ANSWERS++;
     }
 }
